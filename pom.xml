@@ -117,7 +117,7 @@
         <repository>
             <id>org.springframework.maven.release</id>
             <name>Spring Maven Release Repository</name>
-            <url>https://repo.springsource.org/libs-release-local</url>
+            <url>https://hub.docker.com/repository/docker/contact2ashishkumar/cloud-demo</url>
         </repository>
     </distributionManagement>
 
